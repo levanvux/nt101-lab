@@ -1,10 +1,11 @@
-## Bộ thuật toán, bài giải môn An toàn mạng máy tính - NT101 (JavaScript)
+# Bộ thuật toán, bài giải thực hành môn An toàn mạng máy tính - NT101 (JavaScript)
 
-Năm học 2024-2025, học kỳ I
+Học kỳ I
+Năm học 2025-2026
 
-### Nội dung
+## Nội dung thực hành
 
-#### Classical Cryptography
+### Classical Cryptography
 
 - Caesar cipher
 - Mono-alphabetic substitution cipher and frequency analysis
