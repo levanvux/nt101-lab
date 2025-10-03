@@ -2,10 +2,12 @@
 
 Năm học 2024-2025, học kỳ I
 
-### Nội dung chính
+### Nội dung
 
 #### Classical Cryptography
 
--
--
--
+- Caesar cipher
+- Mono-alphabetic substitution cipher and frequency analysis
+- Playfair cipher
+- Polyalphabetic ciphers – Vigenère (Known key & unknown key)
+- Hill cipher
